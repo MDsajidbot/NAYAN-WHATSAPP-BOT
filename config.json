@@ -1,16 +1,16 @@
 {
   "packname": "My Sticker Pack",
   "author": "My Bot",
-  "botName": "Nayan Bot",
-  "botOwner": "Nayan",
-  "ownerNumber": "8801615298449",
+  "botName": "SAJID BOT",
+  "botOwner": "MD SAJID AHMED",
+  "ownerNumber": "8801851070252",
   "PREFIX": ".",
   "admin": [
-    "8801615298449",
+    "8801851070252",
     ""
   ],
-  "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20250106-WA0007.png",
-  "welPic": "https://i.imgur.com/mlnUVGS.jpeg",
+  "helpPic": "https://i.imgur.com/c2CYvBy.jpeg",
+  "welPic": "https://i.imgur.com/c2CYvBy.jpeg",
   "PORT": "3000",
   "msg": {
     "modAdmin": false,
